@@ -1,11 +1,11 @@
-title: Software Engineering Research Venues Deadlines
-description: Countdowns to top Software Engineering Research Venues deadlines.
-author: Sivana Hamer, Imranur Rahman
+title: Deadlines
+description: Countdowns to top Research Venues deadlines.
+author: Doehyun Baek
 
-domain: "se-deadlines.github.io"
+domain: "https://doehyunbaek.github.io/deadlines/"
 baseurl: ""
 
-github_username: se-deadlines
-github_repo: se-deadlines.github.io
+github_username: doehyunbaek
+github_repo: deadlines
 
 markdown: kramdown
