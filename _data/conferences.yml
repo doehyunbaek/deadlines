@@ -11,7 +11,6 @@
   date: April 27 - May 3, 2025
   place: Ottawa, Ontario, Canada
   note: Mandatory abstract deadline on March 15 (first deadline) and July 26 (second deadline) 2024.
-  tags: [CO, RPT]
 
 # ESEC/FSE
 - name: FSE
@@ -23,7 +22,6 @@
   date: July 23 - 27, 2025
   place: Trondheim, Norway
   note: Mandatory abstract deadline on September 5 2024.
-  tags: [CO,RPT]
 
 # ASE
 - name: ASE
@@ -35,7 +33,6 @@
   date: October 27-November 1, 2024
   note: Mandatory abstract deadline on May 31 2024.
   place: Sacramento, California, United States
-  tags: [CO, RPT]
 
 # ISSTA
 - name: ISSTA
@@ -47,8 +44,24 @@
   - "2024-04-12 23:59"
   date: September 16-20, 2024
   place: Vienna, Austria
-  tags: [CO, RPT, EXPT, REST]
 
 # PLDI
+- name: PLDI
+  description: Programming Language Design and Implementation
+  year: 2024
+  link: https://pldi24.sigplan.org/track/pldi-2024-papers#event-overview
+  deadline: 
+  - "2023-11-16 23:59"
+  date: June 24 - 28, 2024
+  place: Copenhagen, Denmark
 
 # OOPSLA
+- name: OOPSLA
+  description: Object-oriented Programming, Systems, Languages, and Applications 
+  year: 2024
+  link: https://pldi24.sigplan.org/track/pldi-2024-papers#event-overview
+  deadline: 
+  - "2023-10-20 23:59"
+  - "2024-04-05 23:59"
+  date: October 20 - 25, 2024
+  place: Pasadena, California, United States
