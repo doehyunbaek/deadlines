@@ -19,7 +19,7 @@
   link: https://conf.researchr.org/track/fse-2025/fse-2025-research-papers
   deadline: 
   - "2024-09-12 23:59"
-  date: July 23 - 27, 2025
+  date: June 23 - 27, 2025
   place: Trondheim, Norway
   note: Mandatory abstract deadline on September 5 2024.
 
@@ -35,6 +35,15 @@
   place: Sacramento, California, United States
 
 # ISSTA
+- name: ISSTA
+  description: International Symposium on Software Testing and Analysis
+  year: 2025
+  link: https://conf.researchr.org/track/issta-2025/issta-2025-papers#Call-for-Papers
+  deadline: 
+  - "2024-10-31 23:59"
+  date: June 25 - 28, 2025
+  place: Trondheim, Norway
+
 - name: ISSTA
   description: International Symposium on Software Testing and Analysis
   year: 2024
