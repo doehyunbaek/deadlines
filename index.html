@@ -26,35 +26,10 @@
           </div>
           <div class="col-xs-12">
             {{ site.description }}
-            <p>To add/update a conference, <a target="_blank" href="//github.com/{{ site.github_username }}/{{ site.github_repo }}">send in a pull request</a>.
             <p>Last update: {{ site.time | date: "%-d %B %Y" }}
-            <div>
-                <p>
-                    Deadlines as iCal: 
-                    <a href="{{site.baseurl}}/ical/deadlines-all.ical">all</a>; 
-                </p>
-            </div>
           </div>
         </div>
         <hr>
-        <div class="row">
-          <div class="col-xs-12">
-            <!-- <div class="well"> -->
-              Select one or more tags to filter (otherwise all deadlines are displayed):
-              <form class="form-inline">
-                <div class="form-group">
-                  {% for type in site.data.types %}
-                  <div class="checkbox">
-                    <label>
-                      <input type="checkbox" id="{{ type.tag }}-checkbox" class=""> {{ type.name }}
-                    </label>
-                  </div>
-                  {% endfor %}
-                </div>
-              </form>
-            <!-- </div> -->
-          </div>
-        </div>
       </div>
       <div class="conf-container">
         {% for conf in site.data.conferences %}
