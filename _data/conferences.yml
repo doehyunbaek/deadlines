@@ -1,6 +1,6 @@
 ---
    
-# ICSEs
+# ICSE
 - name: ICSE
   description: International Conference on Software Engineering - Research Track
   year: 2025
@@ -12,7 +12,7 @@
   place: Ottawa, Ontario, Canada
   note: Mandatory abstract deadline on March 15 (first deadline) and July 26 (second deadline) 2024.
 
-# ESEC/FSE
+# FSE
 - name: FSE
   description: International Conference on the Foundations of Software Engineering - Research Papers
   year: 2025
@@ -68,9 +68,32 @@
 - name: OOPSLA
   description: Object-oriented Programming, Systems, Languages, and Applications 
   year: 2024
-  link: https://pldi24.sigplan.org/track/pldi-2024-papers#event-overview
+  link: https://2024.splashcon.org/track/splash-2024-oopsla
   deadline: 
   - "2023-10-20 23:59"
   - "2024-04-05 23:59"
   date: October 20 - 25, 2024
   place: Pasadena, California, United States
+
+# ASPLOS
+- name: ASPLOS
+  description: Architectural Support for Programming Languages and Operating Systems
+  year: 2025
+  link: https://ieeetcca.org/2024/01/29/asplos-2025-call-for-papers/
+  deadline:
+  - "2024-03-01 23:59"
+  - "2024-06-24 23:59"
+  - "2024-10-18 23:59"
+  date: March 1 - April 30, 2025
+  place: Rotterdam, Netherlands
+
+# WWW
+- name: WWW
+  description: The Web Conference
+  year: 2025
+  link: https://www2025.thewebconf.org/research-tracks
+  deadline:
+  - "2024-10-14 23:59"
+  date: April 28 - May 2, 2025
+  note: Abstract deadline October 7, 2024
+  place: Sydney, Australia 
