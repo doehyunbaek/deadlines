@@ -1,11 +1,11 @@
 ---
-   
+
 # ICSE
 - name: ICSE
   description: International Conference on Software Engineering - Research Track
   year: 2025
   link: https://conf.researchr.org/track/icse-2025/icse-2025-research-track
-  deadline: 
+  deadline:
   - "2024-03-22 23:59"
   - "2024-08-02 23:59"
   date: April 27 - May 3, 2025
@@ -17,7 +17,7 @@
   description: International Conference on the Foundations of Software Engineering - Research Papers
   year: 2025
   link: https://conf.researchr.org/track/fse-2025/fse-2025-research-papers
-  deadline: 
+  deadline:
   - "2024-09-12 23:59"
   date: June 23 - 27, 2025
   place: Trondheim, Norway
@@ -26,9 +26,18 @@
 # ASE
 - name: ASE
   description: International Conference on Automated Software Engineering - Research Papers
+  year: 2025
+  link: https://conf.researchr.org/track/ase-2025/ase-2025-papers
+  deadline:
+  - "2025-05-30 23:59"
+  date: November 16 - 20, 2025
+  place: Seoul, South Korea
+
+- name: ASE
+  description: International Conference on Automated Software Engineering - Research Papers
   year: 2024
   link: https://conf.researchr.org/track/ase-2024/ase-2024-research
-  deadline: 
+  deadline:
   - "2024-06-07 23:59"
   date: October 27-November 1, 2024
   note: Mandatory abstract deadline on May 31 2024.
@@ -39,7 +48,7 @@
   description: International Symposium on Software Testing and Analysis
   year: 2025
   link: https://conf.researchr.org/track/issta-2025/issta-2025-papers#Call-for-Papers
-  deadline: 
+  deadline:
   - "2024-10-31 23:59"
   date: June 25 - 28, 2025
   place: Trondheim, Norway
@@ -48,7 +57,7 @@
   description: International Symposium on Software Testing and Analysis
   year: 2024
   link: https://2024.issta.org/track/issta-2024-papers
-  deadline: 
+  deadline:
   - "2023-12-15 23:59"
   - "2024-04-12 23:59"
   date: September 16-20, 2024
@@ -57,19 +66,38 @@
 # PLDI
 - name: PLDI
   description: Programming Language Design and Implementation
+  year: 2025
+  link: https://pldi25.sigplan.org/track/pldi-2025-papers
+  deadline:
+  - "2024-11-14 23:59"
+  date: June 16 - 20, 2025
+  place: Seoul, South Korea
+
+- name: PLDI
+  description: Programming Language Design and Implementation
   year: 2024
   link: https://pldi24.sigplan.org/track/pldi-2024-papers#event-overview
-  deadline: 
+  deadline:
   - "2023-11-16 23:59"
   date: June 24 - 28, 2024
   place: Copenhagen, Denmark
 
 # OOPSLA
 - name: OOPSLA
-  description: Object-oriented Programming, Systems, Languages, and Applications 
+  description: Object-oriented Programming, Systems, Languages, and Applications
+  year: 2025
+  link: https://2025.splashcon.org/track/OOPSLA
+  deadline:
+  - "2024-10-15 23:59"
+  - "2025-03-25 23:59"
+  date: October 12 - 18, 2025
+  place: Singapore
+
+- name: OOPSLA
+  description: Object-oriented Programming, Systems, Languages, and Applications
   year: 2024
   link: https://2024.splashcon.org/track/splash-2024-oopsla
-  deadline: 
+  deadline:
   - "2023-10-20 23:59"
   - "2024-04-05 23:59"
   date: October 20 - 25, 2024
@@ -96,4 +124,4 @@
   - "2024-10-14 23:59"
   date: April 28 - May 2, 2025
   note: Abstract deadline October 7, 2024
-  place: Sydney, Australia 
+  place: Sydney, Australia
