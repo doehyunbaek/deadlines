@@ -12,6 +12,17 @@
   place: Ottawa, Ontario, Canada
   note: Mandatory abstract deadline on March 15 (first deadline) and July 26 (second deadline) 2024.
 
+- name: ICSE
+  description: International Conference on Software Engineering - Research Track
+  year: 2026
+  link: https://conf.researchr.org/track/icse-2026/icse-2026-research-track
+  deadline:
+  - "2024-03-14 23:59"
+  - "2024-07-18 23:59"
+  date: April 12 - 18, 2025
+  place: Rio de Janeiro, Brazil
+  note: Mandatory abstract deadline on March 7 (first deadline) and July 11 (second deadline) 2024.
+
 # FSE
 - name: FSE
   description: International Conference on the Foundations of Software Engineering - Research Papers
