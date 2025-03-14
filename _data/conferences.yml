@@ -3,17 +3,6 @@
 # ICSE
 - name: ICSE
   description: International Conference on Software Engineering - Research Track
-  year: 2025
-  link: https://conf.researchr.org/track/icse-2025/icse-2025-research-track
-  deadline:
-  - "2024-03-22 23:59"
-  - "2024-08-02 23:59"
-  date: April 27 - May 3, 2025
-  place: Ottawa, Ontario, Canada
-  note: Mandatory abstract deadline on March 15 (first deadline) and July 26 (second deadline) 2024.
-
-- name: ICSE
-  description: International Conference on Software Engineering - Research Track
   year: 2026
   link: https://conf.researchr.org/track/icse-2026/icse-2026-research-track
   deadline:
@@ -22,6 +11,17 @@
   date: April 12 - 18, 2026
   place: Rio de Janeiro, Brazil
   note: Mandatory abstract deadline on March 7 (first deadline) and July 11 (second deadline) 2024.
+
+- name: ICSE
+  description: International Conference on Software Engineering - Research Track
+  year: 2025
+  link: https://conf.researchr.org/track/icse-2025/icse-2025-research-track
+  deadline:
+  - "2024-03-22 23:59"
+  - "2024-08-02 23:59"
+  date: April 27 - May 3, 2025
+  place: Ottawa, Ontario, Canada
+  note: Mandatory abstract deadline on March 15 (first deadline) and July 26 (second deadline) 2024.
 
 # FSE
 - name: FSE
@@ -74,25 +74,6 @@
   date: September 16-20, 2024
   place: Vienna, Austria
 
-# PLDI
-- name: PLDI
-  description: Programming Language Design and Implementation
-  year: 2025
-  link: https://pldi25.sigplan.org/track/pldi-2025-papers
-  deadline:
-  - "2024-11-14 23:59"
-  date: June 16 - 20, 2025
-  place: Seoul, South Korea
-
-- name: PLDI
-  description: Programming Language Design and Implementation
-  year: 2024
-  link: https://pldi24.sigplan.org/track/pldi-2024-papers#event-overview
-  deadline:
-  - "2023-11-16 23:59"
-  date: June 24 - 28, 2024
-  place: Copenhagen, Denmark
-
 # OOPSLA
 - name: OOPSLA
   description: Object-oriented Programming, Systems, Languages, and Applications
@@ -113,26 +94,3 @@
   - "2024-04-05 23:59"
   date: October 20 - 25, 2024
   place: Pasadena, California, United States
-
-# ASPLOS
-- name: ASPLOS
-  description: Architectural Support for Programming Languages and Operating Systems
-  year: 2025
-  link: https://ieeetcca.org/2024/01/29/asplos-2025-call-for-papers/
-  deadline:
-  - "2024-03-01 23:59"
-  - "2024-06-24 23:59"
-  - "2024-10-18 23:59"
-  date: March 1 - April 30, 2025
-  place: Rotterdam, Netherlands
-
-# WWW
-- name: WWW
-  description: The Web Conference
-  year: 2025
-  link: https://www2025.thewebconf.org/research-tracks
-  deadline:
-  - "2024-10-14 23:59"
-  date: April 28 - May 2, 2025
-  note: Abstract deadline October 7, 2024
-  place: Sydney, Australia
