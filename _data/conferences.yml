@@ -44,16 +44,6 @@
   date: November 16 - 20, 2025
   place: Seoul, South Korea
 
-- name: ASE
-  description: International Conference on Automated Software Engineering - Research Papers
-  year: 2024
-  link: https://conf.researchr.org/track/ase-2024/ase-2024-research
-  deadline:
-  - "2024-06-07 23:59"
-  date: October 27-November 1, 2024
-  note: Mandatory abstract deadline on May 31 2024.
-  place: Sacramento, California, United States
-
 # ISSTA
 - name: ISSTA
   description: International Symposium on Software Testing and Analysis
@@ -63,16 +53,6 @@
   - "2024-10-31 23:59"
   date: June 25 - 28, 2025
   place: Trondheim, Norway
-
-- name: ISSTA
-  description: International Symposium on Software Testing and Analysis
-  year: 2024
-  link: https://2024.issta.org/track/issta-2024-papers
-  deadline:
-  - "2023-12-15 23:59"
-  - "2024-04-12 23:59"
-  date: September 16-20, 2024
-  place: Vienna, Austria
 
 # OOPSLA
 - name: OOPSLA
@@ -84,13 +64,3 @@
   - "2025-03-25 23:59"
   date: October 12 - 18, 2025
   place: Singapore
-
-- name: OOPSLA
-  description: Object-oriented Programming, Systems, Languages, and Applications
-  year: 2024
-  link: https://2024.splashcon.org/track/splash-2024-oopsla
-  deadline:
-  - "2023-10-20 23:59"
-  - "2024-04-05 23:59"
-  date: October 20 - 25, 2024
-  place: Pasadena, California, United States
