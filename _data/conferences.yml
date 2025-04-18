@@ -26,6 +26,16 @@
 # FSE
 - name: FSE
   description: International Conference on the Foundations of Software Engineering - Research Papers
+  year: 2026
+  link: https://conf.researchr.org/track/fse-2026/fse-2026-research-papers
+  deadline:
+  - "2025-09-11 23:59"
+  date: July 6 - 10, 2026
+  place: Montreal, Canda
+  note: Mandatory abstract deadline on September 4 2024.
+
+- name: FSE
+  description: International Conference on the Foundations of Software Engineering - Research Papers
   year: 2025
   link: https://conf.researchr.org/track/fse-2025/fse-2025-research-papers
   deadline:
