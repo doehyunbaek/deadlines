@@ -67,6 +67,16 @@
 # OOPSLA
 - name: OOPSLA
   description: Object-oriented Programming, Systems, Languages, and Applications
+  year: 2026
+  link: https://2026.splashcon.org/track/oopsla-2026
+  deadline:
+  - "2025-10-10 23:59"
+  - "2026-03-17 23:59"
+  date: October 3 - 9, 2026
+  place: Oakland, California, United States
+  
+- name: OOPSLA
+  description: Object-oriented Programming, Systems, Languages, and Applications
   year: 2025
   link: https://2025.splashcon.org/track/OOPSLA
   deadline:
