@@ -61,8 +61,9 @@
   link: https://conf.researchr.org/track/issta-2026/issta-2026-research-papers
   deadline:
   - "2026-01-29 23:59"
-  date: June 25 - 28, 2025
-  place: Trondheim, Norway
+  date: October 3 - 9, 2026
+  place: Oakland, California, United States
+  
 
 - name: ISSTA
   description: International Symposium on Software Testing and Analysis
@@ -70,8 +71,8 @@
   link: https://conf.researchr.org/track/issta-2025/issta-2025-papers#Call-for-Papers
   deadline:
   - "2024-10-31 23:59"
-  date: October 3 - 9, 2026
-  place: Oakland, California, United States
+  date: June 25 - 28, 2025
+  place: Trondheim, Norway
 
 # OOPSLA
 - name: OOPSLA
