@@ -47,6 +47,15 @@
 # ASE
 - name: ASE
   description: International Conference on Automated Software Engineering - Research Papers
+  year: 2026
+  link: https://conf.researchr.org/track/ase-2026/ase-2026-research-track
+  deadline:
+  - "2026-03-26 23:59"
+  date: October 12 - 16, 2026
+  place: Munich, Germany
+
+- name: ASE
+  description: International Conference on Automated Software Engineering - Research Papers
   year: 2025
   link: https://conf.researchr.org/track/ase-2025/ase-2025-papers
   deadline:
