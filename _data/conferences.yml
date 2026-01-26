@@ -3,6 +3,16 @@
 # ICSE
 - name: ICSE
   description: International Conference on Software Engineering - Research Track
+  year: 2027
+  link: https://icse2027-research.hotcrp.com/
+  deadline:
+  - "2026-06-30 23:59"
+  date: TBA
+  place: TBA
+  note: Mandatory abstract deadline on June 23, 2026. All dates are AoE (UTC-12).
+
+- name: ICSE
+  description: International Conference on Software Engineering - Research Track
   year: 2026
   link: https://conf.researchr.org/track/icse-2026/icse-2026-research-track
   deadline:
