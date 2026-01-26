@@ -98,6 +98,12 @@ $(function() {
     if (aDiff > 0 && bDiff < 0) {
       return 1;
     }
+    if (aDiff < 0 && bDiff < 0) {
+      return bDiff - aDiff;
+    }
+    if (aDiff > 0 && bDiff > 0) {
+      return aDiff - bDiff;
+    }
     return bDiff - aDiff;
   });
   $('.conf-container').append(confs);
